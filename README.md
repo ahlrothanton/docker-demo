@@ -1,4 +1,7 @@
 # docker-demo
+
+[![dockeri.co](http://dockeri.co/image/ahlrothanton/docker-demo)](https://registry.hub.docker.com/ahlrothanton/docker-demo)
+
 This is just a simple node app built on top of Docker. It's purpose is just to demo Docker.
 
 ## Usage
