@@ -1,3 +1,7 @@
 # ignore git files
 .git*
 .vs
+node_modules
+package-lock.json
+LICENCE
+README.md
